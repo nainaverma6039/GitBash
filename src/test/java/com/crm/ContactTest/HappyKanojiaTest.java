@@ -13,11 +13,6 @@ public class HappyKanojiaTest {
 	{
 		System.out.println("execute editcontacttest");
 	}
-	@Test
-	public void deleteContactTest()
-	{
-		System.out.println("execute deletecontacttest");
-	}
-	
+	//hello naina
 
 }
